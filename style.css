@@ -1,0 +1,14 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background: url(https://img.freepik.com/free-photo/beautiful-shot-of-sea-with-a-mountain-in-the-distance-and-a-clear-sky_181624-2248.jpg?w=2000);
+  background-size: contain;
+  font-weight: 700;
+}
+p {
+  color: blue;
+  
+}
+.photo {
+  text-align: center;
+}
